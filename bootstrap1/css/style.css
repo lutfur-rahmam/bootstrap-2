@@ -1,0 +1,9 @@
+.box{
+	min-height: 80px;
+	background-color:#FF00FF;
+margin-bottom: 20px;
+}
+.bg-custom{
+	min-height: 300px;
+	background-color: #ddd;
+}
